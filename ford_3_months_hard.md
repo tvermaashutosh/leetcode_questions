@@ -1,4 +1,4 @@
-# Ford — 1 Month — All
+# Ford — 3 Months — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|

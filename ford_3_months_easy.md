@@ -1,4 +1,4 @@
-# Ford — 1 Month — Easy (by Acceptance ↑)
+# Ford — 3 Months — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|

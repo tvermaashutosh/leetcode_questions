@@ -1,4 +1,4 @@
-# Ford — 1 Month — Medium (by Acceptance ↑)
+# Ford — 3 Months — All
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
