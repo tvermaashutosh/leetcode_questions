@@ -1,4 +1,4 @@
-# Addepar — More Than 6 Months — Easy (by Acceptance ↑)
+# Addepar — All Time — Medium (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
