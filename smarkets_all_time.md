@@ -1,4 +1,4 @@
-# Smarkets — More Than 6 Months — All
+# Smarkets — All Time — All
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|

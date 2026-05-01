@@ -1,4 +1,4 @@
-# Smarkets — More Than 6 Months — Easy (by Acceptance ↑)
+# Smarkets — All Time — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
