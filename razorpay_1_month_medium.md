@@ -1,4 +1,4 @@
-# Square — 1 Month — All
+# razorpay — 1 Month — Medium (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
