@@ -1,4 +1,4 @@
-# Synology — All Time — Easy (by Acceptance ↑)
+# BookMyShow — 1 Month — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
