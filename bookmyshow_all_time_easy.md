@@ -1,4 +1,4 @@
-# BookMyShow — More Than 6 Months — Medium (by Acceptance ↑)
+# BookMyShow — All Time — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
