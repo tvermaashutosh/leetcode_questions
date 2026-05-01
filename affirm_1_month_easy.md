@@ -1,4 +1,4 @@
-# Square — 1 Month — All
+# Affirm — 1 Month — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
