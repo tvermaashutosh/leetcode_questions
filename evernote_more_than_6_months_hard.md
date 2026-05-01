@@ -1,4 +1,4 @@
-# Evernote — 6 Months — All
+# Evernote — More Than 6 Months — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
