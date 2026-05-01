@@ -1,4 +1,4 @@
-# Goo — 6 Months — Easy (by Acceptance ↑)
+# Goo — More Than 6 Months — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
