@@ -1,4 +1,4 @@
-# Brex — All Time — Hard
+# Splunk — 1 Month — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
