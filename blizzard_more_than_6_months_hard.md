@@ -1,4 +1,4 @@
-# Blizzard — 6 Months — All
+# Blizzard — More Than 6 Months — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
