@@ -1,4 +1,4 @@
-# Brex — 1 Month — Hard
+# Brex — 3 Months — All
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
