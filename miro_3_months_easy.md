@@ -1,4 +1,4 @@
-# Miro — 1 Month — Medium (by Acceptance ↑)
+# Miro — 3 Months — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
