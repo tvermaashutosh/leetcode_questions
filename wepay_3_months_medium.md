@@ -1,4 +1,4 @@
-# WePay — 1 Month — Easy (by Acceptance ↑)
+# WePay — 3 Months — Medium (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
