@@ -1,4 +1,4 @@
-# Newzera — More Than 6 Months — All
+# Newzera — All Time — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
