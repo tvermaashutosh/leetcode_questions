@@ -1,4 +1,4 @@
-# Bosch — All Time — Hard
+# Juniper Networks — 1 Month — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
