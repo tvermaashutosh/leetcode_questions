@@ -1,4 +1,4 @@
-# Alation — 6 Months — Hard
+# Alation — More Than 6 Months — Medium (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
