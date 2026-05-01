@@ -1,4 +1,4 @@
-# Miro — 6 Months — All
+# Miro — More Than 6 Months — All
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
