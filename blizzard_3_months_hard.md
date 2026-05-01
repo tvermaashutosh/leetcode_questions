@@ -1,4 +1,4 @@
-# Blizzard — 1 Month — Easy (by Acceptance ↑)
+# Blizzard — 3 Months — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
