@@ -1,4 +1,4 @@
-# Square — 3 Months — All
+# Akamai — 1 Month — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
