@@ -1,4 +1,4 @@
-# Amobee — 1 Month — Hard
+# Amobee — 3 Months — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
