@@ -1,4 +1,4 @@
-# Evernote — 3 Months — Easy (by Acceptance ↑)
+# Evernote — 6 Months — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
