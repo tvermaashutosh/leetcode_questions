@@ -1,4 +1,4 @@
-# WePay — All Time — Medium (by Acceptance ↑)
+# Goo — 1 Month — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|

@@ -1,4 +1,4 @@
-# WePay — All Time — All
+# Goo — 1 Month — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
