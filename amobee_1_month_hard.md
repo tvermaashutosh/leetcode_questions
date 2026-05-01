@@ -1,4 +1,4 @@
-# Smarkets — All Time — Medium (by Acceptance ↑)
+# Amobee — 1 Month — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
