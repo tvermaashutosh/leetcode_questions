@@ -1,4 +1,4 @@
-# Synology — 3 Months — Easy (by Acceptance ↑)
+# Synology — 6 Months — All
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
