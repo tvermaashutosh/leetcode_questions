@@ -1,4 +1,4 @@
-# Square — 3 Months — All
+# WeRide — 1 Month — All
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
