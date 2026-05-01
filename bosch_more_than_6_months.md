@@ -1,4 +1,4 @@
-# Bosch — 6 Months — Medium (by Acceptance ↑)
+# Bosch — More Than 6 Months — All
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
