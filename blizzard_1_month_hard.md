@@ -1,4 +1,4 @@
-# Addepar — All Time — Hard
+# Blizzard — 1 Month — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
