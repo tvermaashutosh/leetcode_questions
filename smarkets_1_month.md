@@ -1,4 +1,4 @@
-# Evernote — All Time — Easy (by Acceptance ↑)
+# Smarkets — 1 Month — All
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
