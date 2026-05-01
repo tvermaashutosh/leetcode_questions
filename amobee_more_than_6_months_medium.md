@@ -1,4 +1,4 @@
-# Amobee — 6 Months — Medium (by Acceptance ↑)
+# Amobee — More Than 6 Months — Medium (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
