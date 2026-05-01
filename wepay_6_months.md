@@ -1,4 +1,4 @@
-# WePay — 3 Months — All
+# WePay — 6 Months — All
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
