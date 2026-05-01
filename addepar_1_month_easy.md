@@ -1,4 +1,4 @@
-# Credit Karma — All Time — Hard
+# Addepar — 1 Month — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
