@@ -1,4 +1,4 @@
-# BookMyShow — 6 Months — All
+# BookMyShow — More Than 6 Months — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
