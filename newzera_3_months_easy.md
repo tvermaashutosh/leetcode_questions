@@ -1,4 +1,4 @@
-# Newzera — 1 Month — All
+# Newzera — 3 Months — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
