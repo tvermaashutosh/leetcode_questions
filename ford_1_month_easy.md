@@ -1,4 +1,4 @@
-# PTC — All Time — Hard
+# Ford — 1 Month — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
