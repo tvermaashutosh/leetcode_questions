@@ -1,4 +1,4 @@
-# Brex — More Than 6 Months — Easy (by Acceptance ↑)
+# Brex — All Time — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
