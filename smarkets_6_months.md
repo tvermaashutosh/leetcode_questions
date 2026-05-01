@@ -1,4 +1,4 @@
-# Smarkets — 3 Months — All
+# Smarkets — 6 Months — All
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
