@@ -1,4 +1,4 @@
-# DiDi — 1 Month — Easy (by Acceptance ↑)
+# DiDi — 3 Months — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
