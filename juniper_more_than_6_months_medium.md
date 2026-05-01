@@ -1,4 +1,4 @@
-# Juniper Networks — 6 Months — All
+# Juniper Networks — More Than 6 Months — Medium (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
