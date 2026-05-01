@@ -1,4 +1,4 @@
-# Miro — All Time — Medium (by Acceptance ↑)
+# Credit Karma — 1 Month — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|

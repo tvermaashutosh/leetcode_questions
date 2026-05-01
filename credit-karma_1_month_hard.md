@@ -1,4 +1,4 @@
-# Miro — All Time — All
+# Credit Karma — 1 Month — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
