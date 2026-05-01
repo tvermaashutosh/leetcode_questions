@@ -1,4 +1,4 @@
-# Square — 1 Month — All
+# UKG — 1 Month — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
