@@ -1,4 +1,4 @@
-# sabre — 1 Month — All
+# sabre — 3 Months — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
