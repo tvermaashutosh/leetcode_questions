@@ -1,4 +1,4 @@
-# Addepar — 1 Month — Hard
+# Addepar — 3 Months — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
