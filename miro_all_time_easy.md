@@ -1,4 +1,4 @@
-# Miro — More Than 6 Months — Medium (by Acceptance ↑)
+# Miro — All Time — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
