@@ -1,4 +1,4 @@
-# Synology — More Than 6 Months — All
+# Synology — All Time — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|

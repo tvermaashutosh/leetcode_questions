@@ -1,4 +1,4 @@
-# Synology — More Than 6 Months — Medium (by Acceptance ↑)
+# Synology — All Time — Medium (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
