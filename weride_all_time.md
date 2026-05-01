@@ -1,0 +1,17 @@
+# WeRide — All Time — All
+
+| Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
+|--------|-----|------|------|------------|-----------|------------|
+| SOLVED | 1235 | Maximum Profit in Job Scheduling | [Link](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | 54.7% | 73.6 | HARD |
+| TO_DO | 3123 | Find Edges in Shortest Paths | [Link](https://leetcode.com/problems/find-edges-in-shortest-paths/) | 46.6% | 100.0 | HARD |
+| TO_DO | 329 | Longest Increasing Path in a Matrix | [Link](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) | 56.6% | 73.6 | HARD |
+| SOLVED | 2592 | Maximize Greatness of an Array | [Link](https://leetcode.com/problems/maximize-greatness-of-an-array/) | 61.6% | 84.8 | MEDIUM |
+| SOLVED | 778 | Swim in Rising Water | [Link](https://leetcode.com/problems/swim-in-rising-water/) | 67.8% | 73.6 | HARD |
+| SOLVED | 68 | Text Justification | [Link](https://leetcode.com/problems/text-justification/) | 51.0% | 64.7 | HARD |
+| SOLVED | 2791 | Count Paths That Can Form a Palindrome in a Tree | [Link](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/) | 51.9% | 73.6 | HARD |
+| TO_DO | 696 | Count Binary Substrings | [Link](https://leetcode.com/problems/count-binary-substrings/) | 70.4% | 64.7 | EASY |
+| TO_DO | 1740 | Find Distance in a Binary Tree | [Link](https://leetcode.com/problems/find-distance-in-a-binary-tree/) | 74.3% | 64.7 | MEDIUM |
+| TO_DO | 353 | Design Snake Game | [Link](https://leetcode.com/problems/design-snake-game/) | 40.0% | 64.7 | MEDIUM |
+| TO_DO | 1559 | Detect Cycles in 2D Grid | [Link](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | 63.2% | 73.6 | MEDIUM |
+
+*Total: 11 questions*
