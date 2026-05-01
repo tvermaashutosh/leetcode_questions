@@ -1,4 +1,4 @@
-# Brex — All Time — Hard
+# Akuna Capital — 1 Month — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
