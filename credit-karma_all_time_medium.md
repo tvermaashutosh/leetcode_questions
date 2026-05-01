@@ -1,4 +1,4 @@
-# Credit Karma — More Than 6 Months — Medium (by Acceptance ↑)
+# Credit Karma — All Time — Medium (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
