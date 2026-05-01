@@ -1,4 +1,4 @@
-# sabre — All Time — Easy (by Acceptance ↑)
+# Bosch — 1 Month — Medium (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
