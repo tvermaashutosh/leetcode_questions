@@ -1,4 +1,4 @@
-# DiDi — More Than 6 Months — All
+# DiDi — All Time — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
