@@ -1,4 +1,4 @@
-# Ford — More Than 6 Months — Medium (by Acceptance ↑)
+# Ford — All Time — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
