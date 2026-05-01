@@ -1,4 +1,4 @@
-# Brex — All Time — All
+# Millennium — 1 Month — All
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|

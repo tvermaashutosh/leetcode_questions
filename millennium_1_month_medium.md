@@ -1,4 +1,4 @@
-# Square — 3 Months — All
+# Millennium — 1 Month — Medium (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
