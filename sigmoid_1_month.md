@@ -1,4 +1,4 @@
-# Brex — All Time — Medium (by Acceptance ↑)
+# Sigmoid — 1 Month — All
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
