@@ -1,4 +1,4 @@
-# Synology — 1 Month — All
+# Synology — 3 Months — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
