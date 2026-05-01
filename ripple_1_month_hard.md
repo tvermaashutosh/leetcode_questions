@@ -1,4 +1,4 @@
-# Square — 1 Month — All
+# Ripple — 1 Month — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
