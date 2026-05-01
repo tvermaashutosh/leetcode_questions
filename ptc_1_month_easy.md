@@ -1,4 +1,4 @@
-# Goo — All Time — All
+# PTC — 1 Month — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|

@@ -1,4 +1,4 @@
-# Goo — All Time — Medium (by Acceptance ↑)
+# PTC — 1 Month — Medium (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
