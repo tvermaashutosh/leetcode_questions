@@ -1,4 +1,4 @@
-# Credit Karma — 3 Months — All
+# Credit Karma — 6 Months — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|

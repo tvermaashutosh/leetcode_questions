@@ -1,4 +1,4 @@
-# Credit Karma — 3 Months — Hard
+# Credit Karma — 6 Months — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
