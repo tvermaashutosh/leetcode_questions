@@ -1,0 +1,21 @@
+# Robinhood — All Time — All
+
+| Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
+|--------|-----|------|------|------------|-----------|------------|
+| TO_DO | 2021 | Brightest Position on Street | [Link](https://leetcode.com/problems/brightest-position-on-street/) | 60.6% | 95.8 | MEDIUM |
+| TO_DO | 1711 | Count Good Meals | [Link](https://leetcode.com/problems/count-good-meals/) | 32.8% | 95.8 | MEDIUM |
+| TO_DO | 1712 | Ways to Split Array Into Three Subarrays | [Link](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | 34.2% | 98.0 | MEDIUM |
+| SOLVED | 68 | Text Justification | [Link](https://leetcode.com/problems/text-justification/) | 51.0% | 79.7 | HARD |
+| TO_DO | 1743 | Restore the Array From Adjacent Pairs | [Link](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | 75.0% | 98.0 | MEDIUM |
+| SOLVED | 121 | Best Time to Buy and Sell Stock | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 56.7% | 58.5 | EASY |
+| TO_DO | 1801 | Number of Orders in the Backlog | [Link](https://leetcode.com/problems/number-of-orders-in-the-backlog/) | 53.9% | 100.0 | MEDIUM |
+| TO_DO | 1391 | Check if There is a Valid Path in a Grid | [Link](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | 64.5% | 95.8 | MEDIUM |
+| TO_DO | 1393 | Capital Gain/Loss | [Link](https://leetcode.com/problems/capital-gainloss/) | 84.7% | 95.8 | MEDIUM |
+| TO_DO | 1684 | Count the Number of Consistent Strings | [Link](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | 88.5% | 95.8 | EASY |
+| TO_DO | 692 | Top K Frequent Words | [Link](https://leetcode.com/problems/top-k-frequent-words/) | 60.1% | 93.3 | MEDIUM |
+| TO_DO | 1108 | Defanging an IP Address | [Link](https://leetcode.com/problems/defanging-an-ip-address/) | 90.0% | 58.5 | EASY |
+| TO_DO | 529 | Minesweeper | [Link](https://leetcode.com/problems/minesweeper/) | 68.7% | 67.9 | MEDIUM |
+| SOLVED | 347 | Top K Frequent Elements | [Link](https://leetcode.com/problems/top-k-frequent-elements/) | 66.3% | 67.9 | MEDIUM |
+| TO_DO | 690 | Employee Importance | [Link](https://leetcode.com/problems/employee-importance/) | 69.4% | 58.5 | MEDIUM |
+
+*Total: 15 questions*
