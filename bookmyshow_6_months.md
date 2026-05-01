@@ -1,4 +1,4 @@
-# BookMyShow — 3 Months — Easy (by Acceptance ↑)
+# BookMyShow — 6 Months — All
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
