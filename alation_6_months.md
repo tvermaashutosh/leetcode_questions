@@ -1,4 +1,4 @@
-# Alation — 3 Months — Easy (by Acceptance ↑)
+# Alation — 6 Months — All
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
