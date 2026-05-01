@@ -1,4 +1,4 @@
-# Amobee — 3 Months — Easy (by Acceptance ↑)
+# Amobee — 6 Months — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
