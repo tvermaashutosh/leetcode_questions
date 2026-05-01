@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 859 | Buddy Strings | [Link](https://leetcode.com/problems/buddy-strings/) | 34.0% | 64.9 | EASY |

@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 402 | Remove K Digits | [Link](https://leetcode.com/problems/remove-k-digits/) | 36.7% | 70.4 | MEDIUM |

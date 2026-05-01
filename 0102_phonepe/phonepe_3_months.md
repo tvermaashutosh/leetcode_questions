@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 54 | Spiral Matrix | [Link](https://leetcode.com/problems/spiral-matrix/) | 56.7% | 100.0 | MEDIUM |

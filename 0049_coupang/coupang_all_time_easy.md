@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 724 | Find Pivot Index | [Link](https://leetcode.com/problems/find-pivot-index/) | 62.6% | 93.4 | EASY |

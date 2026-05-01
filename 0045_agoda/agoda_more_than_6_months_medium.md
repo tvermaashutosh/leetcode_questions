@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 2734 | Lexicographically Smallest String After Substring Operation | [Link](https://leetcode.com/problems/lexicographically-smallest-string-after-substring-operation/) | 34.9% | 55.6 | MEDIUM |

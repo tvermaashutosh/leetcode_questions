@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 844 | Backspace String Compare | [Link](https://leetcode.com/problems/backspace-string-compare/) | 49.9% | 58.1 | EASY |

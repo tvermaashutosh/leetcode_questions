@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 638 | Shopping Offers | [Link](https://leetcode.com/problems/shopping-offers/) | 52.4% | 86.7 | MEDIUM |

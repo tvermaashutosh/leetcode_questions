@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 69 | Sqrt(x) | [Link](https://leetcode.com/problems/sqrtx/) | 41.7% | 68.9 | EASY |

@@ -7,6 +7,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 3024 | Type of Triangle | [Link](https://leetcode.com/problems/type-of-triangle/) | 44.1% | 39.4 | EASY |

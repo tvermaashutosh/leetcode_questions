@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 127 | Word Ladder | [Link](https://leetcode.com/problems/word-ladder/) | 45.4% | 87.1 | HARD |

@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 997 | Find the Town Judge | [Link](https://leetcode.com/problems/find-the-town-judge/) | 50.7% | 63.0 | EASY |

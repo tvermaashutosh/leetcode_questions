@@ -7,6 +7,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 766 | Toeplitz Matrix | [Link](https://leetcode.com/problems/toeplitz-matrix/) | 69.7% | 100.0 | EASY |

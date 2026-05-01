@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 65 | Valid Number | [Link](https://leetcode.com/problems/valid-number/) | 22.9% | 42.6 | HARD |

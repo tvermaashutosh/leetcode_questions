@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 2065 | Maximum Path Quality of a Graph | [Link](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) | 62.0% | 91.7 | HARD |

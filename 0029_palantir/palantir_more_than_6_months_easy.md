@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 1232 | Check If It Is a Straight Line | [Link](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | 40.1% | 45.9 | EASY |

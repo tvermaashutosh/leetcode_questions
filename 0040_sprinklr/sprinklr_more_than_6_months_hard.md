@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 2846 | Minimum Edge Weight Equilibrium Queries in a Tree | [Link](https://leetcode.com/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/) | 45.8% | 59.8 | HARD |

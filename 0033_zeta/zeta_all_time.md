@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 3071 | Minimum Operations to Write the Letter Y on a Grid | [Link](https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid/) | 64.5% | 59.7 | MEDIUM |

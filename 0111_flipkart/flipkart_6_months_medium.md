@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 1423 | Maximum Points You Can Obtain from Cards | [Link](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | 57.6% | 88.1 | MEDIUM |

@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 155 | Min Stack | [Link](https://leetcode.com/problems/min-stack/) | 58.1% | 100.0 | MEDIUM |

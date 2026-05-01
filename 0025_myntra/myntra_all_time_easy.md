@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 459 | Repeated Substring Pattern | [Link](https://leetcode.com/problems/repeated-substring-pattern/) | 48.2% | 68.9 | EASY |

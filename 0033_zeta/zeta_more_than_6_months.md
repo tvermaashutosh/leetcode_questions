@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 502 | IPO | [Link](https://leetcode.com/problems/ipo/) | 53.5% | 84.7 | HARD |

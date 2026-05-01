@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 696 | Count Binary Substrings | [Link](https://leetcode.com/problems/count-binary-substrings/) | 70.4% | 82.8 | EASY |

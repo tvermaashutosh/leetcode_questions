@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 3207 | Maximum Points After Enemy Battles | [Link](https://leetcode.com/problems/maximum-points-after-enemy-battles/) | 33.3% | 100.0 | MEDIUM |

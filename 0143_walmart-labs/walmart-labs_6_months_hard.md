@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 332 | Reconstruct Itinerary | [Link](https://leetcode.com/problems/reconstruct-itinerary/) | 44.5% | 79.1 | HARD |

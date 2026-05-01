@@ -7,6 +7,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 2791 | Count Paths That Can Form a Palindrome in a Tree | [Link](https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree/) | 51.9% | 86.0 | HARD |

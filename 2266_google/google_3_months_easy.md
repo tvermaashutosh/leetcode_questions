@@ -7,6 +7,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 914 | X of a Kind in a Deck of Cards | [Link](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | 30.2% | 18.9 | EASY |

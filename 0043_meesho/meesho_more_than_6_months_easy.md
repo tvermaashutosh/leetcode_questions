@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 197 | Rising Temperature | [Link](https://leetcode.com/problems/rising-temperature/) | 51.2% | 90.9 | EASY |

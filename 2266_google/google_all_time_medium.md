@@ -7,6 +7,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | ATTEMPTED | 3664 | Two-Letter Card Game | [Link](https://leetcode.com/problems/two-letter-card-game/) | 12.6% | 5.6 | MEDIUM |

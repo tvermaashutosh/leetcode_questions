@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 3552 | Grid Teleportation Traversal | [Link](https://leetcode.com/problems/grid-teleportation-traversal/) | 23.6% | 55.5 | MEDIUM |

@@ -7,6 +7,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 925 | Long Pressed Name | [Link](https://leetcode.com/problems/long-pressed-name/) | 32.9% | 22.6 | EASY |

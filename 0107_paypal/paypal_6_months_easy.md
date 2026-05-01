@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 1251 | Average Selling Price | [Link](https://leetcode.com/problems/average-selling-price/) | 37.3% | 66.1 | EASY |

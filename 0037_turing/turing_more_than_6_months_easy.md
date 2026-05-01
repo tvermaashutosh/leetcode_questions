@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 1668 | Maximum Repeating Substring | [Link](https://leetcode.com/problems/maximum-repeating-substring/) | 41.6% | 53.2 | EASY |

@@ -7,6 +7,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 3629 | Minimum Jumps to Reach End via Prime Teleportation | [Link](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | 31.8% | 51.2 | MEDIUM |

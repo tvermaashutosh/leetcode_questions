@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 55 | Jump Game | [Link](https://leetcode.com/problems/jump-game/) | 40.8% | 63.6 | MEDIUM |

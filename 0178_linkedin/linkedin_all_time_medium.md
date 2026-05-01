@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 3891 | Minimum Increase to Maximize Special Indices | [Link](https://leetcode.com/problems/minimum-increase-to-maximize-special-indices/) | 19.4% | 43.3 | MEDIUM |

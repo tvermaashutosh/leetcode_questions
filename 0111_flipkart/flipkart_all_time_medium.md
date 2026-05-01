@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 3576 | Transform Array to All Equal Elements | [Link](https://leetcode.com/problems/transform-array-to-all-equal-elements/) | 33.2% | 82.9 | MEDIUM |

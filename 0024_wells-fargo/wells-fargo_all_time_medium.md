@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 2892 | Minimizing Array After Replacing Pairs With Their Product | [Link](https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product/) | 40.7% | 69.4 | MEDIUM |

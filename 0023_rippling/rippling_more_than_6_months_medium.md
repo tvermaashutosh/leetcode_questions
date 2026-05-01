@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 2939 | Maximum Xor Product | [Link](https://leetcode.com/problems/maximum-xor-product/) | 29.8% | 64.9 | MEDIUM |

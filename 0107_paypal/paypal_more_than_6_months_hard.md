@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 2366 | Minimum Replacements to Sort the Array | [Link](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/) | 53.1% | 42.2 | HARD |

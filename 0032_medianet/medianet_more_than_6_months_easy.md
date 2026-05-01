@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 2873 | Maximum Value of an Ordered Triplet I | [Link](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) | 58.2% | 56.7 | EASY |

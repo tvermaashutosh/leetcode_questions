@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 6 | Zigzag Conversion | [Link](https://leetcode.com/problems/zigzag-conversion/) | 54.0% | 100.0 | MEDIUM |

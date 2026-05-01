@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 2872 | Maximum Number of K-Divisible Components | [Link](https://leetcode.com/problems/maximum-number-of-k-divisible-components/) | 74.0% | 59.5 | HARD |

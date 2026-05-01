@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 1921 | Eliminate Maximum Number of Monsters | [Link](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | 51.1% | 100.0 | MEDIUM |

@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 36 | Valid Sudoku | [Link](https://leetcode.com/problems/valid-sudoku/) | 64.4% | 75.1 | MEDIUM |

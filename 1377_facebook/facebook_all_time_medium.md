@@ -7,6 +7,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 3862 | Find the Smallest Balanced Index | [Link](https://leetcode.com/problems/find-the-smallest-balanced-index/) | 19.3% | 20.9 | MEDIUM |

@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 456 | 132 Pattern | [Link](https://leetcode.com/problems/132-pattern/) | 34.7% | 90.6 | MEDIUM |

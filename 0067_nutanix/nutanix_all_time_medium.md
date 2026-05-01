@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 1146 | Snapshot Array | [Link](https://leetcode.com/problems/snapshot-array/) | 36.7% | 55.9 | MEDIUM |

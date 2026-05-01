@@ -7,6 +7,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 14 | Longest Common Prefix | [Link](https://leetcode.com/problems/longest-common-prefix/) | 47.5% | 51.2 | EASY |

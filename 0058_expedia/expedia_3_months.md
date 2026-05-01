@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 38 | Count and Say | [Link](https://leetcode.com/problems/count-and-say/) | 62.8% | 100.0 | MEDIUM |

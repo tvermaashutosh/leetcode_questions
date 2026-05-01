@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 1307 | Verbal Arithmetic Puzzle | [Link](https://leetcode.com/problems/verbal-arithmetic-puzzle/) | 34.8% | 100.0 | HARD |

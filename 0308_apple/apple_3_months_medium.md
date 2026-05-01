@@ -7,6 +7,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 7 | Reverse Integer | [Link](https://leetcode.com/problems/reverse-integer/) | 31.8% | 61.1 | MEDIUM |

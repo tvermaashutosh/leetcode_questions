@@ -7,6 +7,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 1 | Two Sum | [Link](https://leetcode.com/problems/two-sum/) | 57.4% | 78.3 | EASY |

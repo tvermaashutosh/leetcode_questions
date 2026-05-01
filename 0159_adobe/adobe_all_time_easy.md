@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 195 | Tenth Line | [Link](https://leetcode.com/problems/tenth-line/) | 36.6% | 81.7 | EASY |

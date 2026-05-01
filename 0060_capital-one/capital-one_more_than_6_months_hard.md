@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | ATTEMPTED | 546 | Remove Boxes | [Link](https://leetcode.com/problems/remove-boxes/) | 49.4% | 38.5 | HARD |

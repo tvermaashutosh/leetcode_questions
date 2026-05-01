@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 2384 | Largest Palindromic Number | [Link](https://leetcode.com/problems/largest-palindromic-number/) | 37.1% | 100.0 | MEDIUM |

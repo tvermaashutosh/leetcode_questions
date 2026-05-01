@@ -7,6 +7,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 8 | String to Integer (atoi) | [Link](https://leetcode.com/problems/string-to-integer-atoi/) | 20.9% | 40.9 | MEDIUM |

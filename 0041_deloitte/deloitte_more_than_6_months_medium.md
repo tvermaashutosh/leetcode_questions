@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 3703 | Remove K-Balanced Substrings | [Link](https://leetcode.com/problems/remove-k-balanced-substrings/) | 32.7% | 55.5 | MEDIUM |

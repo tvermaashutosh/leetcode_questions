@@ -7,6 +7,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 2389 | Longest Subsequence With Limited Sum | [Link](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | 73.5% | 51.5 | EASY |

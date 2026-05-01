@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 767 | Reorganize String | [Link](https://leetcode.com/problems/reorganize-string/) | 57.0% | 100.0 | MEDIUM |

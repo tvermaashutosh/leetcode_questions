@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 139 | Word Break | [Link](https://leetcode.com/problems/word-break/) | 49.4% | 53.9 | MEDIUM |

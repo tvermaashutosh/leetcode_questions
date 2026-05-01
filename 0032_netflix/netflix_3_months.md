@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 1136 | Parallel Courses | [Link](https://leetcode.com/problems/parallel-courses/) | 62.2% | 100.0 | MEDIUM |

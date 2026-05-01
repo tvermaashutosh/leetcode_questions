@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 2905 | Find Indices With Index and Value Difference II | [Link](https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/) | 32.7% | 73.7 | MEDIUM |

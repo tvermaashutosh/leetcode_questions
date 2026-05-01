@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 2659 | Make Array Empty | [Link](https://leetcode.com/problems/make-array-empty/) | 27.0% | 73.5 | HARD |

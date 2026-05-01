@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 475 | Heaters | [Link](https://leetcode.com/problems/heaters/) | 41.8% | 73.0 | MEDIUM |

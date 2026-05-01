@@ -7,6 +7,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 815 | Bus Routes | [Link](https://leetcode.com/problems/bus-routes/) | 47.3% | 87.7 | HARD |

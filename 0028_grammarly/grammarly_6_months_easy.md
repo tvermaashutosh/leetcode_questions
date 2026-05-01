@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 35 | Search Insert Position | [Link](https://leetcode.com/problems/search-insert-position/) | 51.2% | 100.0 | EASY |

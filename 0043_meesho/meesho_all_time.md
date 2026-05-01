@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 2858 | Minimum Edge Reversals So Every Node Is Reachable | [Link](https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/) | 59.2% | 73.9 | HARD |

@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 56 | Merge Intervals | [Link](https://leetcode.com/problems/merge-intervals/) | 51.7% | 100.0 | MEDIUM |

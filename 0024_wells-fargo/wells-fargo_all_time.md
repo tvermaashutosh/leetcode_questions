@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 2904 | Shortest and Lexicographically Smallest Beautiful String | [Link](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/) | 41.1% | 100.0 | MEDIUM |

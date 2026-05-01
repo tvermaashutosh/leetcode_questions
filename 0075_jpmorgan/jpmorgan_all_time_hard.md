@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 2503 | Maximum Number of Points From Grid Queries | [Link](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/) | 59.3% | 76.9 | HARD |

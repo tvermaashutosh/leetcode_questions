@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 2735 | Collecting Chocolates | [Link](https://leetcode.com/problems/collecting-chocolates/) | 34.9% | 100.0 | MEDIUM |

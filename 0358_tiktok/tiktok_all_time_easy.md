@@ -7,6 +7,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 941 | Valid Mountain Array | [Link](https://leetcode.com/problems/valid-mountain-array/) | 35.2% | 24.1 | EASY |

@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 3588 | Find Maximum Area of a Triangle | [Link](https://leetcode.com/problems/find-maximum-area-of-a-triangle/) | 29.4% | 87.5 | MEDIUM |

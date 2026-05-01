@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 22 | Generate Parentheses | [Link](https://leetcode.com/problems/generate-parentheses/) | 78.6% | 46.1 | MEDIUM |

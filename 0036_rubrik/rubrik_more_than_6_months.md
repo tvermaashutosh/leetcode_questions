@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 31 | Next Permutation | [Link](https://leetcode.com/problems/next-permutation/) | 45.1% | 41.9 | MEDIUM |

@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 1046 | Last Stone Weight | [Link](https://leetcode.com/problems/last-stone-weight/) | 66.5% | 56.1 | EASY |

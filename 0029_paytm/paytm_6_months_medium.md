@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 128 | Longest Consecutive Sequence | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | 47.1% | 100.0 | MEDIUM |

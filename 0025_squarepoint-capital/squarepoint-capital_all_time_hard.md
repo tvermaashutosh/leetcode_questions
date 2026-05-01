@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | ATTEMPTED | 403 | Frog Jump | [Link](https://leetcode.com/problems/frog-jump/) | 47.3% | 70.4 | HARD |

@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 3012 | Minimize Length of Array Using Operations | [Link](https://leetcode.com/problems/minimize-length-of-array-using-operations/) | 35.8% | 82.9 | MEDIUM |

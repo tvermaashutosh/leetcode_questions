@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 605 | Can Place Flowers | [Link](https://leetcode.com/problems/can-place-flowers/) | 29.1% | 35.8 | EASY |

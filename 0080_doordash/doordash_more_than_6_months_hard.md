@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 987 | Vertical Order Traversal of a Binary Tree | [Link](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | 53.6% | 51.6 | HARD |

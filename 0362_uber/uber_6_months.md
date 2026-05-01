@@ -7,6 +7,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 79 | Word Search | [Link](https://leetcode.com/problems/word-search/) | 47.3% | 76.4 | MEDIUM |

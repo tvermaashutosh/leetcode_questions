@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 1366 | Rank Teams by Votes | [Link](https://leetcode.com/problems/rank-teams-by-votes/) | 60.1% | 100.0 | MEDIUM |

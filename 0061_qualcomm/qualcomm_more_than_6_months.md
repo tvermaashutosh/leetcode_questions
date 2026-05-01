@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 70 | Climbing Stairs | [Link](https://leetcode.com/problems/climbing-stairs/) | 54.1% | 67.7 | EASY |

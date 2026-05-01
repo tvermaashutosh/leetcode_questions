@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 414 | Third Maximum Number | [Link](https://leetcode.com/problems/third-maximum-number/) | 39.3% | 37.3 | EASY |

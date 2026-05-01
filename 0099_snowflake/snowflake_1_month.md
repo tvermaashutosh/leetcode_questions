@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 1600 | Throne Inheritance | [Link](https://leetcode.com/problems/throne-inheritance/) | 67.1% | 100.0 | MEDIUM |

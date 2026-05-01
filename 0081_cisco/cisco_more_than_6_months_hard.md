@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 149 | Max Points on a Line | [Link](https://leetcode.com/problems/max-points-on-a-line/) | 30.6% | 50.7 | HARD |

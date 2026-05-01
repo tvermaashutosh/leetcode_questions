@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 296 | Best Meeting Point | [Link](https://leetcode.com/problems/best-meeting-point/) | 61.4% | 78.6 | HARD |

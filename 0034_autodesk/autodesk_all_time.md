@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 3069 | Distribute Elements Into Two Arrays I | [Link](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | 73.9% | 97.9 | EASY |

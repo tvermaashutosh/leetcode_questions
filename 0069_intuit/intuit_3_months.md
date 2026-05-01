@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 3719 | Longest Balanced Subarray I | [Link](https://leetcode.com/problems/longest-balanced-subarray-i/) | 65.6% | 100.0 | MEDIUM |

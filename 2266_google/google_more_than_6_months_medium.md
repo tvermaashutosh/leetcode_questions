@@ -7,6 +7,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 3409 | Longest Subsequence With Decreasing Adjacent Difference | [Link](https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference/) | 16.8% | 5 | MEDIUM |

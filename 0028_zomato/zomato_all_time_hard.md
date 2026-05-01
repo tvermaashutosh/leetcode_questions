@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 2931 | Maximum Spending After Buying Items | [Link](https://leetcode.com/problems/maximum-spending-after-buying-items/) | 61.1% | 100.0 | HARD |

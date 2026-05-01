@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 3143 | Maximum Points Inside the Square | [Link](https://leetcode.com/problems/maximum-points-inside-the-square/) | 39.6% | 100.0 | MEDIUM |

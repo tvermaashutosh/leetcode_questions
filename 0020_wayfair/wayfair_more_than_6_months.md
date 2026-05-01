@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 125 | Valid Palindrome | [Link](https://leetcode.com/problems/valid-palindrome/) | 53.2% | 68.6 | EASY |

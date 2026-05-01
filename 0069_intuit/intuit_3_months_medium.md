@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 322 | Coin Change | [Link](https://leetcode.com/problems/coin-change/) | 48.3% | 89.1 | MEDIUM |

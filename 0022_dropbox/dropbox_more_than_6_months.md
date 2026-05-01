@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 609 | Find Duplicate File in System | [Link](https://leetcode.com/problems/find-duplicate-file-in-system/) | 67.5% | 63.9 | MEDIUM |

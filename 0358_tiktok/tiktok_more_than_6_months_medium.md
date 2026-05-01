@@ -7,6 +7,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 468 | Validate IP Address | [Link](https://leetcode.com/problems/validate-ip-address/) | 28.3% | 25.6 | MEDIUM |

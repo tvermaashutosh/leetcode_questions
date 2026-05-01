@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 924 | Minimize Malware Spread | [Link](https://leetcode.com/problems/minimize-malware-spread/) | 43.1% | 73.0 | HARD |

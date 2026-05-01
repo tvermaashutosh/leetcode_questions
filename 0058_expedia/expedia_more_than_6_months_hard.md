@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 1611 | Minimum One Bit Operations to Make Integers Zero | [Link](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | 78.4% | 67.8 | HARD |

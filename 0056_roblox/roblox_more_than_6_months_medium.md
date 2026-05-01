@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 2817 | Minimum Absolute Difference Between Elements With Constraint | [Link](https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/) | 37.6% | 55.8 | MEDIUM |

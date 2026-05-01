@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 239 | Sliding Window Maximum | [Link](https://leetcode.com/problems/sliding-window-maximum/) | 48.7% | 73.2 | HARD |

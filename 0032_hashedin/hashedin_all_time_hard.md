@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 2999 | Count the Number of Powerful Integers | [Link](https://leetcode.com/problems/count-the-number-of-powerful-integers/) | 46.2% | 80.3 | HARD |

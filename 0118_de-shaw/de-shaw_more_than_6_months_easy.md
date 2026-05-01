@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 2660 | Determine the Winner of a Bowling Game | [Link](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/) | 37.5% | 40.8 | EASY |

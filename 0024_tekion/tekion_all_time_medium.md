@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 1712 | Ways to Split Array Into Three Subarrays | [Link](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | 34.2% | 60.5 | MEDIUM |

@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 276 | Paint Fence | [Link](https://leetcode.com/problems/paint-fence/) | 48.4% | 89.2 | MEDIUM |

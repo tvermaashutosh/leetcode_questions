@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 2742 | Painting the Walls | [Link](https://leetcode.com/problems/painting-the-walls/) | 49.0% | 75.3 | HARD |

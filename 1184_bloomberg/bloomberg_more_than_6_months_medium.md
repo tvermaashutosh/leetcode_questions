@@ -7,6 +7,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | ATTEMPTED | 3388 | Count Beautiful Splits in an Array | [Link](https://leetcode.com/problems/count-beautiful-splits-in-an-array/) | 18.8% | 15.9 | MEDIUM |

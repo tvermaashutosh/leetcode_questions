@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 983 | Minimum Cost For Tickets | [Link](https://leetcode.com/problems/minimum-cost-for-tickets/) | 67.4% | 84.4 | MEDIUM |

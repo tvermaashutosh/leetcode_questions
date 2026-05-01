@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 1909 | Remove One Element to Make the Array Strictly Increasing | [Link](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/) | 29.8% | 100.0 | EASY |

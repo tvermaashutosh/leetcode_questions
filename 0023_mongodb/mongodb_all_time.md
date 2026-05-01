@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | ATTEMPTED | 57 | Insert Interval | [Link](https://leetcode.com/problems/insert-interval/) | 45.1% | 72.9 | MEDIUM |

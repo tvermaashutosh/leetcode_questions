@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 15 | 3Sum | [Link](https://leetcode.com/problems/3sum/) | 39.0% | 79.8 | MEDIUM |

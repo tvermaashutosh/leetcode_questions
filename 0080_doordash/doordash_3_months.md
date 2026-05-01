@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 286 | Walls and Gates | [Link](https://leetcode.com/problems/walls-and-gates/) | 64.0% | 83.7 | MEDIUM |

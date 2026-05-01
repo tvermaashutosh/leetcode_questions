@@ -7,6 +7,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 2423 | Remove Letter To Equalize Frequency | [Link](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) | 19.3% | 58.7 | EASY |

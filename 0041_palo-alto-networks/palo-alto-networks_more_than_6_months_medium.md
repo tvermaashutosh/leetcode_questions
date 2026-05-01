@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 2831 | Find the Longest Equal Subarray | [Link](https://leetcode.com/problems/find-the-longest-equal-subarray/) | 38.0% | 71.6 | MEDIUM |

@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 1197 | Minimum Knight Moves | [Link](https://leetcode.com/problems/minimum-knight-moves/) | 41.9% | 70.5 | MEDIUM |

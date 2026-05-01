@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 87 | Scramble String | [Link](https://leetcode.com/problems/scramble-string/) | 44.5% | 41.9 | HARD |

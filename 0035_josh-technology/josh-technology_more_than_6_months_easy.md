@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 283 | Move Zeroes | [Link](https://leetcode.com/problems/move-zeroes/) | 63.8% | 83.4 | EASY |

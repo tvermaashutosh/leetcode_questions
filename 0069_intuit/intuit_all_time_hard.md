@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 37 | Sudoku Solver | [Link](https://leetcode.com/problems/sudoku-solver/) | 65.4% | 63.1 | HARD |

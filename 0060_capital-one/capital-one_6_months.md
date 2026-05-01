@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 2043 | Simple Bank System | [Link](https://leetcode.com/problems/simple-bank-system/) | 69.7% | 87.7 | MEDIUM |

@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 2896 | Apply Operations to Make Two Strings Equal | [Link](https://leetcode.com/problems/apply-operations-to-make-two-strings-equal/) | 27.7% | 100.0 | MEDIUM |

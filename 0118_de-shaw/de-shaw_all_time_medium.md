@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 3469 | Find Minimum Cost to Remove Array Elements | [Link](https://leetcode.com/problems/find-minimum-cost-to-remove-array-elements/) | 21.6% | 85.8 | MEDIUM |

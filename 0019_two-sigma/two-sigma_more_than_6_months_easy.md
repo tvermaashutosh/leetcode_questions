@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 342 | Power of Four | [Link](https://leetcode.com/problems/power-of-four/) | 52.0% | 71.8 | EASY |

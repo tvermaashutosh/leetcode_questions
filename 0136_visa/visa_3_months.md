@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 2964 | Number of Divisible Triplet Sums | [Link](https://leetcode.com/problems/number-of-divisible-triplet-sums/) | 67.5% | 100.0 | MEDIUM |

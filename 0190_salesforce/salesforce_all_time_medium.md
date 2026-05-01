@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 3366 | Minimum Array Sum | [Link](https://leetcode.com/problems/minimum-array-sum/) | 31.3% | 28.8 | MEDIUM |

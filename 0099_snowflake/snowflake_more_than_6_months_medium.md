@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 2856 | Minimum Array Length After Pair Removals | [Link](https://leetcode.com/problems/minimum-array-length-after-pair-removals/) | 27.4% | 49.0 | MEDIUM |

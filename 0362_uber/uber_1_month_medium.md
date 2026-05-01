@@ -7,6 +7,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 162 | Find Peak Element | [Link](https://leetcode.com/problems/find-peak-element/) | 46.9% | 86.0 | MEDIUM |

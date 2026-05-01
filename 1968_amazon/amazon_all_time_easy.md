@@ -7,6 +7,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 3407 | Substring Matching Pattern | [Link](https://leetcode.com/problems/substring-matching-pattern/) | 28.7% | 26.8 | EASY |

@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 2861 | Maximum Number of Alloys | [Link](https://leetcode.com/problems/maximum-number-of-alloys/) | 40.9% | 79.2 | MEDIUM |

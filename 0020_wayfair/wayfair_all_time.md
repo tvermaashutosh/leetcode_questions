@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 1014 | Best Sightseeing Pair | [Link](https://leetcode.com/problems/best-sightseeing-pair/) | 62.7% | 97.7 | MEDIUM |

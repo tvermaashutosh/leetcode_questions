@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 1298 | Maximum Candies You Can Get from Boxes | [Link](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) | 67.5% | 81.7 | HARD |

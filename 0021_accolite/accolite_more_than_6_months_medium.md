@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 1654 | Minimum Jumps to Reach Home | [Link](https://leetcode.com/problems/minimum-jumps-to-reach-home/) | 30.7% | 62.4 | MEDIUM |

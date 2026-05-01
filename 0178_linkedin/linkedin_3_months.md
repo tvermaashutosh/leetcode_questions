@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 277 | Find the Celebrity | [Link](https://leetcode.com/problems/find-the-celebrity/) | 49.0% | 60.5 | MEDIUM |

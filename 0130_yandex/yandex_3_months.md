@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 1493 | Longest Subarray of 1's After Deleting One Element | [Link](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | 71.2% | 100.0 | MEDIUM |

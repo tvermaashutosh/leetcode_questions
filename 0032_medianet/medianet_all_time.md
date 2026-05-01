@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 1938 | Maximum Genetic Difference Query | [Link](https://leetcode.com/problems/maximum-genetic-difference-query/) | 46.8% | 91.8 | HARD |

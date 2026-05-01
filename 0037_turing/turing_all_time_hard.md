@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | ATTEMPTED | 818 | Race Car | [Link](https://leetcode.com/problems/race-car/) | 44.7% | 50.7 | HARD |

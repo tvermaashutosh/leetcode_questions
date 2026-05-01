@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 556 | Next Greater Element III | [Link](https://leetcode.com/problems/next-greater-element-iii/) | 35.3% | 65.9 | MEDIUM |

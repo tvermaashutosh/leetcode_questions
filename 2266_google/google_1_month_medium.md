@@ -7,6 +7,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 204 | Count Primes | [Link](https://leetcode.com/problems/count-primes/) | 36.0% | 44.1 | MEDIUM |

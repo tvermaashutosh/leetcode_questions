@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 780 | Reaching Points | [Link](https://leetcode.com/problems/reaching-points/) | 34.3% | 45.7 | HARD |

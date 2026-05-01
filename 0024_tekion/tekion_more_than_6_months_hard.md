@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 2954 | Count the Number of Infection Sequences | [Link](https://leetcode.com/problems/count-the-number-of-infection-sequences/) | 37.5% | 78.8 | HARD |

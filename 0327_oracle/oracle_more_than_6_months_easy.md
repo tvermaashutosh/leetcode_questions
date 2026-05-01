@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 2047 | Number of Valid Words in a Sentence | [Link](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/) | 31.1% | 27.9 | EASY |

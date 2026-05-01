@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 1411 | Number of Ways to Paint N × 3 Grid | [Link](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | 80.5% | 100.0 | HARD |

@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | TO_DO | 290 | Word Pattern | [Link](https://leetcode.com/problems/word-pattern/) | 44.0% | 63.9 | EASY |

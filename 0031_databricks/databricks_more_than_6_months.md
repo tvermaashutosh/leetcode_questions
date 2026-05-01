@@ -5,6 +5,8 @@
 
 
 
+
+
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
 | SOLVED | 2096 | Step-By-Step Directions From a Binary Tree Node to Another | [Link](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | 56.4% | 80.9 | MEDIUM |
