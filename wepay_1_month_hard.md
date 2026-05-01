@@ -1,4 +1,4 @@
-# Amobee — All Time — Medium (by Acceptance ↑)
+# WePay — 1 Month — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
