@@ -1,4 +1,4 @@
-# Evernote — 1 Month — Easy (by Acceptance ↑)
+# Evernote — 3 Months — Medium (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
