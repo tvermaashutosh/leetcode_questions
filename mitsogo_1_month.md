@@ -1,4 +1,4 @@
-# Brex — All Time — Easy (by Acceptance ↑)
+# Mitsogo — 1 Month — All
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
