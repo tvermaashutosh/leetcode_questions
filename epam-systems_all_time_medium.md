@@ -1,0 +1,37 @@
+# EPAM Systems — All Time — Medium (by Acceptance ↑)
+
+*Total: 28 questions*
+
+
+
+
+| Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
+|--------|-----|------|------|------------|-----------|------------|
+| TO_DO | 7 | Reverse Integer | [Link](https://leetcode.com/problems/reverse-integer/) | 31.8% | 51.8 | MEDIUM |
+| SOLVED | 5 | Longest Palindromic Substring | [Link](https://leetcode.com/problems/longest-palindromic-substring/) | 37.7% | 81.7 | MEDIUM |
+| TO_DO | 50 | Pow(x, n) | [Link](https://leetcode.com/problems/powx-n/) | 38.6% | 51.8 | MEDIUM |
+| TO_DO | 3 | Longest Substring Without Repeating Characters | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 38.9% | 96.6 | MEDIUM |
+| SOLVED | 15 | 3Sum | [Link](https://leetcode.com/problems/3sum/) | 39.0% | 51.8 | MEDIUM |
+| TO_DO | 43 | Multiply Strings | [Link](https://leetcode.com/problems/multiply-strings/) | 44.1% | 61.5 | MEDIUM |
+| SOLVED | 189 | Rotate Array | [Link](https://leetcode.com/problems/rotate-array/) | 44.8% | 73.7 | MEDIUM |
+| SOLVED | 128 | Longest Consecutive Sequence | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | 47.1% | 61.5 | MEDIUM |
+| TO_DO | 735 | Asteroid Collision | [Link](https://leetcode.com/problems/asteroid-collision/) | 47.7% | 51.8 | MEDIUM |
+| SOLVED | 322 | Coin Change | [Link](https://leetcode.com/problems/coin-change/) | 48.3% | 51.8 | MEDIUM |
+| SOLVED | 2 | Add Two Numbers | [Link](https://leetcode.com/problems/add-two-numbers/) | 48.4% | 51.8 | MEDIUM |
+| TO_DO | 416 | Partition Equal Subset Sum | [Link](https://leetcode.com/problems/partition-equal-subset-sum/) | 49.4% | 61.5 | MEDIUM |
+| TO_DO | 56 | Merge Intervals | [Link](https://leetcode.com/problems/merge-intervals/) | 51.7% | 61.5 | MEDIUM |
+| SOLVED | 198 | House Robber | [Link](https://leetcode.com/problems/house-robber/) | 53.2% | 61.5 | MEDIUM |
+| SOLVED | 53 | Maximum Subarray | [Link](https://leetcode.com/problems/maximum-subarray/) | 53.2% | 51.8 | MEDIUM |
+| TO_DO | 151 | Reverse Words in a String | [Link](https://leetcode.com/problems/reverse-words-in-a-string/) | 56.2% | 51.8 | MEDIUM |
+| TO_DO | 443 | String Compression | [Link](https://leetcode.com/problems/string-compression/) | 59.9% | 61.5 | MEDIUM |
+| TO_DO | 72 | Edit Distance | [Link](https://leetcode.com/problems/edit-distance/) | 60.5% | 51.8 | MEDIUM |
+| SOLVED | 1907 | Count Salary Categories | [Link](https://leetcode.com/problems/count-salary-categories/) | 64.4% | 51.8 | MEDIUM |
+| TO_DO | 167 | Two Sum II - Input Array Is Sorted | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 65.0% | 51.8 | MEDIUM |
+| SOLVED | 347 | Top K Frequent Elements | [Link](https://leetcode.com/problems/top-k-frequent-elements/) | 66.3% | 51.8 | MEDIUM |
+| TO_DO | 62 | Unique Paths | [Link](https://leetcode.com/problems/unique-paths/) | 66.8% | 51.8 | MEDIUM |
+| TO_DO | 215 | Kth Largest Element in an Array | [Link](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 68.9% | 51.8 | MEDIUM |
+| SOLVED | 2033 | Minimum Operations to Make a Uni-Value Grid | [Link](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | 70.7% | 92.6 | MEDIUM |
+| SOLVED | 49 | Group Anagrams | [Link](https://leetcode.com/problems/group-anagrams/) | 72.5% | 81.7 | MEDIUM |
+| TO_DO | 451 | Sort Characters By Frequency | [Link](https://leetcode.com/problems/sort-characters-by-frequency/) | 75.3% | 51.8 | MEDIUM |
+| TO_DO | 1026 | Maximum Difference Between Node and Ancestor | [Link](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | 78.2% | 61.5 | MEDIUM |
+| TO_DO | 22 | Generate Parentheses | [Link](https://leetcode.com/problems/generate-parentheses/) | 78.6% | 61.5 | MEDIUM |
