@@ -1,4 +1,4 @@
-# ConsultAdd — 1 Month — Medium (by Acceptance ↑)
+# ConsultAdd — 3 Months — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
