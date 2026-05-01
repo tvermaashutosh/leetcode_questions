@@ -1,4 +1,4 @@
-# Opendoor — All Time — Medium (by Acceptance ↑)
+# DiDi — 1 Month — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
