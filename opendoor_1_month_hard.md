@@ -1,4 +1,4 @@
-# Juniper Networks — All Time — All
+# Opendoor — 1 Month — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
