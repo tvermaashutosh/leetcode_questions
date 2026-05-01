@@ -1,4 +1,4 @@
-# Opendoor — More Than 6 Months — Easy (by Acceptance ↑)
+# Opendoor — All Time — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
