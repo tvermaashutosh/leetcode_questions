@@ -1,4 +1,4 @@
-# Goo — More Than 6 Months — Medium (by Acceptance ↑)
+# Goo — All Time — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
