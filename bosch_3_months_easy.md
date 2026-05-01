@@ -1,4 +1,4 @@
-# Bosch — 1 Month — Medium (by Acceptance ↑)
+# Bosch — 3 Months — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|

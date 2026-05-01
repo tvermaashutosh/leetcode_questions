@@ -1,4 +1,4 @@
-# Bosch — 1 Month — Hard
+# Bosch — 3 Months — All
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
