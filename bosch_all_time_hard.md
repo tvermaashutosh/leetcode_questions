@@ -1,4 +1,4 @@
-# Bosch — More Than 6 Months — Hard
+# Bosch — All Time — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
