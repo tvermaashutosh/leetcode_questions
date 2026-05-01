@@ -1,4 +1,4 @@
-# Alation — All Time — Hard
+# Synology — 1 Month — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|

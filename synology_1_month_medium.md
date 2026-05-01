@@ -1,4 +1,4 @@
-# Alation — All Time — All
+# Synology — 1 Month — Medium (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
