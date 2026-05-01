@@ -1,4 +1,4 @@
-# Alation — 1 Month — All
+# Alation — 3 Months — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
