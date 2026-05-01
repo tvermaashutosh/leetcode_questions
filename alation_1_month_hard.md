@@ -1,4 +1,4 @@
-# Blizzard — All Time — Medium (by Acceptance ↑)
+# Alation — 1 Month — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
