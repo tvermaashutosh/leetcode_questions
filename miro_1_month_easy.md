@@ -1,4 +1,4 @@
-# DiDi — All Time — Medium (by Acceptance ↑)
+# Miro — 1 Month — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|

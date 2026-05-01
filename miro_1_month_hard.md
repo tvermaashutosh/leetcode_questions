@@ -1,4 +1,4 @@
-# DiDi — All Time — Easy (by Acceptance ↑)
+# Miro — 1 Month — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
