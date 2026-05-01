@@ -1,4 +1,4 @@
-# ConsultAdd — All Time — Easy (by Acceptance ↑)
+# Newzera — 1 Month — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
