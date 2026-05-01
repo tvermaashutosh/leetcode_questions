@@ -1,4 +1,4 @@
-# ConsultAdd — More Than 6 Months — Hard
+# ConsultAdd — All Time — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
