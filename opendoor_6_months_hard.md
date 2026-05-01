@@ -1,4 +1,4 @@
-# Opendoor — 3 Months — All
+# Opendoor — 6 Months — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
