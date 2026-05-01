@@ -1,4 +1,4 @@
-# Juniper Networks — 1 Month — Medium (by Acceptance ↑)
+# Juniper Networks — 3 Months — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
