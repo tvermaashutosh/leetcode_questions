@@ -1,4 +1,4 @@
-# PTC — 3 Months — Easy (by Acceptance ↑)
+# PTC — 6 Months — Hard
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
