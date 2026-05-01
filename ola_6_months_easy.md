@@ -1,4 +1,4 @@
-# Ola Cabs — 3 Months — Easy (by Acceptance ↑)
+# Ola Cabs — 6 Months — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|

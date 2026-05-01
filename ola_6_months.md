@@ -1,4 +1,4 @@
-# Ola Cabs — 3 Months — Medium (by Acceptance ↑)
+# Ola Cabs — 6 Months — All
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
