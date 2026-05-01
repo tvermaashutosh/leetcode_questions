@@ -1,4 +1,4 @@
-# Brex — All Time — Medium (by Acceptance ↑)
+# Arcesium — 1 Month — Medium (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
