@@ -1,4 +1,4 @@
-# Ola Cabs — More Than 6 Months — All
+# Ola Cabs — All Time — All
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
