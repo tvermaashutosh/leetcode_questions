@@ -1,4 +1,4 @@
-# Square — 3 Months — All
+# General Motors — 1 Month — Easy (by Acceptance ↑)
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|

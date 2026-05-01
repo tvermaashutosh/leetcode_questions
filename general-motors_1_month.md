@@ -1,4 +1,4 @@
-# Square — 1 Month — Medium (by Acceptance ↑)
+# General Motors — 1 Month — All
 
 | Status | ID | Name | Link | Acceptance | Frequency | Difficulty |
 |--------|-----|------|------|------------|-----------|------------|
